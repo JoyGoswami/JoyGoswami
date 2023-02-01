@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 I am Joy Goswami from Bangladesh. I graduated from National University in 2020 with a degree in English Literature. I am interested in Front End Web Development. Web applications have always fascinated me. I love the process of building web apps. I love to create beautiful Responsive Web Sites with delightful user experiences. I love to learn programming languages. I am well-versed in HTML, CSS, JavaScript, and Bootstrap. I am familiar with developing interactive, responsive websites. I am currently learning React.
+## Latest Projects
+- ### Note Taking App [Repo](https://github.com/JoyGoswami/note-taking-app) | [Live](https://joygoswami.github.io/note-taking-app/)
 ## Projects
 - ### JavaScript Projects
+    - #### Note Taking App [Repo](https://github.com/JoyGoswami/note-taking-app) | [Live](https://joygoswami.github.io/note-taking-app/)
     - #### Todo App [Repo](https://github.com/JoyGoswami/Todo-App) | [Live](https://joygoswami.github.io/Todo-App/)
     - #### Expense Tracker App (not completed & not arranged) [Repo](https://github.com/JoyGoswami/expense-traker) | [Live](https://joygoswami.github.io/expense-traker/)
     - #### Clock (Not arranged) [Repo](https://github.com/JoyGoswami/analog-clock) | [Live](https://joygoswami.github.io/analog-clock/)
