@@ -5,6 +5,7 @@ I am Joy Goswami from Bangladesh. I graduated from National University in 2020 w
 - ### Note Taking App [Repo](https://github.com/JoyGoswami/note-taking-app) | [Live](https://joygoswami.github.io/note-taking-app/)
 ## Projects
 - ### JavaScript Projects
+    - #### National University CGPA Calculator App [Repo](https://github.com/JoyGoswami/national-university-cgpa-calculator) | [Live](https://joygoswami.github.io/national-university-cgpa-calculator/)
     - #### Note Taking App [Repo](https://github.com/JoyGoswami/note-taking-app) | [Live](https://joygoswami.github.io/note-taking-app/)
     - #### Todo App [Repo](https://github.com/JoyGoswami/Todo-App) | [Live](https://joygoswami.github.io/Todo-App/)
     - #### Expense Tracker App (not completed & not arranged) [Repo](https://github.com/JoyGoswami/expense-traker) | [Live](https://joygoswami.github.io/expense-traker/)
